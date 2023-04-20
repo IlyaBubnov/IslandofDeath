@@ -1,0 +1,12 @@
+# Directories & Files
+/out/
+/Readme.txt
+
+# File types
+*.iml
+*.xml
+
+
+# IDEA Files
+.idea/
+
